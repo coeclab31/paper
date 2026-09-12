@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+google-genai
+edge-tts
+pydub
+requests
