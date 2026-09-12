@@ -3,4 +3,5 @@ pymupdf
 google-genai
 edge-tts
 pydub
+audioop-lts
 requests
